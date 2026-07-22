@@ -5,7 +5,7 @@ from jose import jwt
 from urllib.request import urlopen
 
 
-AUTH0_DOMAIN = 'dev-4xkuepyf61nqzkrs.us.auth0.com'
+AUTH0_DOMAIN = 'dev-wcqvzlc8letz1j52.us.auth0.com'
 ALGORITHMS = ['RS256']
 API_AUDIENCE = 'Image'
 
