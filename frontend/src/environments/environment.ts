@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiServerUrl: 'http://127.0.0.1:5000', // the running FLASK api server url
+  apiServerUrl: 'https://fullstack-iam.onrender.com', // the running FLASK api server url
   auth0: {
     url: 'dev-wcqvzlc8letz1j52.us', // the auth0 domain prefix
     audience: 'Image', // the audience set for the auth0 app
